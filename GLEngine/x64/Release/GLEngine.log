@@ -1,0 +1,15 @@
+﻿  entry.cpp
+D:\Visual Studio Projects\GLEngine\GLEngine\src\opengl\modles\cube.hpp(60,21): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+D:\Visual Studio Projects\GLEngine\GLEngine\src\entry.cpp(43,19): warning C4305: "Argument": Verkürzung von "double" in "T"
+          with
+          [
+              T=float
+          ]
+D:\Visual Studio Projects\GLEngine\GLEngine\src\entry.cpp(92,27): warning C4244: "=": Konvertierung von "f64" in "f32", möglicher Datenverlust
+D:\Visual Studio Projects\GLEngine\GLEngine\src\entry.cpp(93,15): warning C4244: "=": Konvertierung von "f64" in "f32", möglicher Datenverlust
+  Code wird generiert.
+  1 of 849 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    10 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+  GLEngine.vcxproj -> D:\Visual Studio Projects\GLEngine\x64\Release\GLEngine.exe
